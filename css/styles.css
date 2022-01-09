@@ -1,6 +1,4 @@
 
-
-
 body{
   background-color:#CFFFDC;
   margin: 0;
@@ -26,7 +24,7 @@ h2{
   font-family: 'Montserrat', sans-serif;
   font-size:2.5rem;
   font-weight:normal;
-padding-bottom:10px;
+ padding-bottom:10px;
 }
 
 h3{
@@ -39,11 +37,11 @@ p{
 }
 
 hr{
-  border: dotted #9D9D9D 6px;
-border-top: doddet;
-border-bottom: none;
-width:5%;
-margin:60px auto;
+ border: dotted #9D9D9D 6px;
+ border-top: doddet;
+ border-bottom: none;
+ width:5%;
+ margin:60px auto;
 }
 
 a{
@@ -61,14 +59,12 @@ a:hover {
   background-color:#93FFD8;
   position: relative;
   padding-top:100px;
-
 }
 
 .middle-container{
-
   margin: 30px 0;
 }
-/******************   #66BFBF    *************888*/
+/******************   color #66BFBF    *************888*/
 .bottom-container{
  background-color: #66BFBF;
  padding: 50px 0 20px;
@@ -76,7 +72,7 @@ a:hover {
 
 .skill-row{
   width: 60%;
-  margin:200px auto 200px auto;
+  margin:200px auto 150px auto;
   text-align: left;
 }
 
@@ -86,6 +82,7 @@ text-decoration: underline;
 
 .intro{
   width: 30%;
+  font-size:20px;
   margin:auto;
 }
 
@@ -130,7 +127,7 @@ width: 40%;
 margin:50px auto 50px auto;
  text-align: center;
  font-family: 'Montserrat', sans-serif;
-  font-size:100%;
+ font-size:100%;
 }
 
 .btn {
@@ -159,5 +156,3 @@ margin:50px auto 50px auto;
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
-
-
