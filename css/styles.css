@@ -82,9 +82,10 @@ text-decoration: underline;
 }
 
 .intro{
-  width: 30%;
-  font-size: 100%;
+  width: 40%;
+  font-size: 125%;
   margin:auto;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .copyright{
