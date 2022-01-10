@@ -6,7 +6,6 @@ body{
   font-family: 'Merriweather', serif;
 }
 
-
 h1{
   color:#E93B81;
   font-size:5rem;
@@ -47,7 +46,7 @@ hr{
 a{
   color:#11999E;
   font-family: 'Montserrat', sans-serif;
-  font-size: 100%;
+  font-size: 125%;
   margin: 10px 20px;
   text-decoration: none;
 }
@@ -65,7 +64,7 @@ a:hover {
 .middle-container{
   margin: 30px 0;
 }
-/******************   color #66BFBF    *************888*/
+
 .bottom-container{
  background-color: #66BFBF;
  padding: 50px 0 20px;
@@ -87,10 +86,10 @@ text-decoration: underline;
   margin:auto;
   font-family: 'Montserrat', sans-serif;
 }
-
+/**      ont-size: 0.75rem;   ***/
 .copyright{
   color: #EAF6F6;
- font-size: 0.75rem;
+ font-size: 100%;
  padding: 20px 0;
 }
 
